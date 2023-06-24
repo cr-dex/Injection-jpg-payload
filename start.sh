@@ -22,7 +22,7 @@ if [ "$answer" == "y" ]; then
     unrar x tools.rar
     
 elif [ "$answer" == "n" ]; then
-    echo "\033[31mPlease contact with https://t.me/cr_dex 😥\033[1m"
+    echo -e "\033[31mPlease contact with https://t.me/cr_dex 😥\03"
 else
     echo "please try again & choose (y) or (n)"
 fi
