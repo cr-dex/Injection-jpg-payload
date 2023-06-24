@@ -26,3 +26,9 @@ you should rename the payload or format app to become " Payload.apk "
 17.  then enter again to start the injection اضغط انتر مرة اخرى لبدأ عملية الحقن
 18.  go to your storage and you will photo virus name `img202003275.jpg` and send it to the victim
     اذهب لملفاتك ستجد اسم الصورة الملغمة `img202003275.jpg`
+
+# CONTACTS
+telegram(1) : https://t.me/cr_dex 
+telegram(2) : https://t.me/cr_dex_2
+
+Youtube : https://youtube.com/@cr_dex_CyberSecurity
