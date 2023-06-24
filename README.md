@@ -19,7 +19,7 @@ you should rename the payload or format app to become " Payload.apk "
     if you did that prees `y` لو اشتريت الباسورد او كلمتنى على تليجرام اكتب `y`
 11. write the password  اكتب كلمة السر
 12.  `chmod +x *` again
-13.  `./zzz.sh` or `bash zzz.sh`
+13.  `./cr_dex.sh` or `bash cr_dex.sh`
 14.  if you renamed apk (which you want to merge in photo) to become "`Payload.apk`" click `y`
      اذا قمت باعادة تسمية التطبيق المراد دمجه الى "Payload.apk" اضغط y
 16.  then enter قم بالضغط على انتر
