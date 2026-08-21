@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "oneDEV"
+version = "1.0.0"
+description = "get your oneDEV to by as a serial number through library powered by Golang."
+readme = "README.md"
+requires-python = ">=3.6"
+authors = [
+    { name = "crdexxx", email = "aymanambaby250@gmail.com" }
+]
+classifiers = [
+    "Programming Language :: Python :: 3"
+]
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
